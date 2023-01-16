@@ -1,5 +1,6 @@
 print('From git bash')
-a=1000
+a=10
 b=3
-print('Multiplication',a*b)
+print('Addition',a+b)
 print('Done')
+print('Changes made')
